@@ -18,23 +18,14 @@
 
 <!-- Smart Contract GIF -->
 <h2>🔗 Smart Contracts</h2>
-<p>
-  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" alt="Smart Contracts" width="600" />
-</p>
 <p>I create efficient, secure, and audited smart contracts using Solidity & Rust, ensuring reliability across blockchain ecosystems.</p>
 
 <!-- Rust GIF -->
 <h2>🦀 Rust Blockchain Development</h2>
-<p>
-  <img src="https://media.giphy.com/media/Ka2NAhphLdqXC/giphy.gif" alt="Rust Developer" width="600" />
-</p>
 <p>Working with <strong>Rust</strong> on high-performance, low-level blockchain systems and Layer 1 infrastructure.</p>
 
 <!-- Full Stack GIF -->
 <h2>🧰 Full Stack Engineering</h2>
-<p>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Full Stack Development" width="600" />
-</p>
 <p>I build pixel-perfect frontends and scalable backend APIs to power real-world Web3 applications.</p>
 
 <!-- Philosophy -->
