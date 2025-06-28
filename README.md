@@ -1,17 +1,94 @@
 <h3 align="center">I am a skilled Full Stack & Blockchain Developer.</h3>
 
-<em>"Every great developer you know got there by solving problems they were <b>unqualified</b> to solve until they actually did it." - Patrick McKenzie</em>
-<br>
-<h3>My github trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coinables" alt="coinables" /></a> </p>
-<h3>Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coinables&show_icons=true&locale=en" alt="coinables" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/coinables" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coinables" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4VfjvgWBVMH1S3Aij-XvRg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m1xolyd1an" height="30" width="40" /></a>
+<h1 align="center">🧠 Project Title: Next-Gen Full Stack Blockchain App</h1>
+
+<!-- Description -->
+<p align="center"><strong>An advanced project combining full stack development and blockchain technology, built for innovation and scalability.</strong></p>
+
+<!-- Project Images -->
+<h2>🖼️ Screenshots / Concepts</h2>
+
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=Blockchain+Architecture" alt="Blockchain" />
+  <br />
+  <em>Blockchain Layer</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=Full+Stack+Application" alt="Full Stack" />
+  <br />
+  <em>Full Stack UI Example</em>
+</p>
 
+<p>
+  <img src="https://via.placeholder.com/600x300.png?text=Smart+Contract+Flow" alt="Smart Contracts" />
+  <br />
+  <em>Smart Contract Interaction</em>
+</p>
+
+<!-- Features -->
+<h2>✨ Features</h2>
+<ul>
+  <li>Decentralized Architecture with Blockchain Integration</li>
+  <li>Responsive Full Stack Web Interface</li>
+  <li>Real-time Data Handling</li>
+  <li>Secure Authentication and User Wallet Support</li>
+  <li>Modular and Scalable Codebase</li>
+</ul>
+
+<!-- Tech Stack -->
+<h2>🧰 Tech Stack</h2>
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript, React</li>
+  <li>Backend: Node.js, Express</li>
+  <li>Blockchain: Solidity, Ethereum, Web3.js</li>
+  <li>Database: MongoDB</li>
+</ul>
+
+<!-- Installation -->
+<h2>📦 Installation</h2>
+<pre>
+<code>
+# Clone the project
+git clone your-project-url
+
+# Navigate into the folder
+cd your-project
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
+</code>
+</pre>
+
+<!-- Usage -->
+<h2>🚀 Usage</h2>
+<p>
+This app allows users to interact with smart contracts through a user-friendly UI. You can deploy contracts, view transactions, and manage user data through a secure dashboard.
+</p>
+
+<!-- Structure -->
+<h2>📁 Project Structure</h2>
+<pre>
+<code>
+├── client          # React frontend
+├── server          # Express backend
+├── contracts       # Solidity smart contracts
+├── public          # Static assets
+├── README.md       # Project readme
+</code>
+</pre>
+
+<!-- Contribution -->
+<h2>🤝 Contribution</h2>
+<p>If you'd like to help improve this project, clone the repo, make your changes, and suggest updates.</p>
+
+<!-- License -->
+<h2>📝 License</h2>
+<p>This project is provided as-is for learning and development purposes.</p>
+
+<!-- Footer -->
+<hr />
+<p align="center"><strong>Crafted with ❤️ for builders, developers, and learners.</strong></p>
