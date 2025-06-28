@@ -1,65 +1,60 @@
-<!-- Header -->
-<h1 align="center">👋 Hello, I'm <span style="color:#4CAF50;">Bogdan Chervinko</span></h1>
-<p align="center"><strong>A passionate Full Stack & Blockchain Developer | Builder of Digital Realities</strong></p>
+<!-- Intro Banner -->
+<h1 align="center">🚀 Bogdan Chervinko</h1>
+<p align="center"><strong>Blockchain Developer | Smart Contracts | Rust | Full Stack Engineer</strong></p>
 
-<!-- Profile Banner -->
+<!-- Profile GIF -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Blockchain+%7C+Web3+%7C+Full+Stack+Developer" alt="Banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="700" />
 </p>
 
-<!-- About Me -->
-<h2>🧑‍💻 About Me</h2>
+<!-- Tech Highlights -->
+<h2>👨‍💻 What I Do</h2>
 <ul>
-  <li>🔭 I'm currently working on cutting-edge blockchain dApps and smart contract systems</li>
-  <li>🌐 I specialize in full stack web development using modern tools like React, Node.js, Solidity, and MongoDB</li>
-  <li>📚 I’m constantly learning and experimenting with Web3, DeFi, and scalable backend systems</li>
-  <li>🎯 My goal is to build meaningful technology that improves lives</li>
+  <li>⚙️ Smart Contract Development — <strong>Solidity</strong>, <strong>Rust</strong>, <strong>Move</strong></li>
+  <li>🧱 Blockchain Systems — Ethereum, Solana, Polkadot, Cosmos SDK</li>
+  <li>🌐 Full Stack — React, Node.js, Tailwind, PostgreSQL, REST, GraphQL</li>
+  <li>📦 Web3, Tokenomics, DeFi, DAO, ZK-SNARKs</li>
 </ul>
 
-<!-- Technologies -->
-<h2>🧰 Tech Toolbox</h2>
+<!-- Smart Contract GIF -->
+<h2>🔗 Smart Contracts</h2>
 <p>
-  <img src="https://via.placeholder.com/150x100.png?text=React+JS" alt="React" />
-  <img src="https://via.placeholder.com/150x100.png?text=Node+JS" alt="Node.js" />
-  <img src="https://via.placeholder.com/150x100.png?text=Solidity" alt="Solidity" />
-  <img src="https://via.placeholder.com/150x100.png?text=MongoDB" alt="MongoDB" />
-  <img src="https://via.placeholder.com/150x100.png?text=Web3.js" alt="Web3.js" />
+  <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" alt="Smart Contracts" width="600" />
 </p>
+<p>I create efficient, secure, and audited smart contracts using Solidity & Rust, ensuring reliability across blockchain ecosystems.</p>
 
-<!-- Specialization -->
-<h2>🔗 Specialization</h2>
-<p>I build <strong>secure, scalable, and user-focused applications</strong> that bring together the best of modern web technologies and blockchain architecture.</p>
-<p>From frontend dashboards to Ethereum smart contracts — I create products that are both beautiful and functional.</p>
-
-<!-- Visual Highlights -->
-<h2>📸 Visual Concepts</h2>
-
+<!-- Rust GIF -->
+<h2>🦀 Rust Blockchain Development</h2>
 <p>
-  <img src="https://via.placeholder.com/800x400.png?text=Smart+Contract+Flow" alt="Smart Contract Flow" /><br />
-  <em>Smart Contract Flow: From UI → Blockchain</em>
+  <img src="https://media.giphy.com/media/Ka2NAhphLdqXC/giphy.gif" alt="Rust Developer" width="600" />
 </p>
+<p>Working with <strong>Rust</strong> on high-performance, low-level blockchain systems and Layer 1 infrastructure.</p>
 
+<!-- Full Stack GIF -->
+<h2>🧰 Full Stack Engineering</h2>
 <p>
-  <img src="https://via.placeholder.com/800x400.png?text=Decentralized+Application+Architecture" alt="dApp Architecture" /><br />
-  <em>dApp Architecture with Full Stack Integration</em>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Full Stack Development" width="600" />
 </p>
+<p>I build pixel-perfect frontends and scalable backend APIs to power real-world Web3 applications.</p>
 
-<!-- Personal Philosophy -->
-<h2>🌱 Developer Philosophy</h2>
+<!-- Philosophy -->
+<h2>💡 Developer Philosophy</h2>
 <blockquote>
-  “I believe that great software is invisible. It just works.  
-  I aim to write code that solves real-world problems with elegance and simplicity.”
+  “Great code is like magic—powerful, invisible, and unforgettable.”<br />
+  <i>I write clean, composable, and testable code for the next generation of decentralized apps.</i>
 </blockquote>
 
-<!-- Interests -->
-<h2>🧠 Interests</h2>
-<ul>
-  <li>🚀 Web3, Blockchain, Ethereum & DeFi</li>
-  <li>🎨 UI/UX Design with Functional Aesthetics</li>
-  <li>📈 Backend Performance Optimization</li>
-  <li>🤝 Open-source collaboration and community building</li>
-</ul>
+<!-- Toolbox -->
+<h2>🛠️ My Stack</h2>
+<p>
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
-<!-- Footer -->
+<!-- Outro -->
 <hr />
-<p align="center"><strong>Let’s connect, collaborate, and create the future — one commit at a time.</strong></p>
+<p align="center"><strong>Let’s build the decentralized future together 🌐🔗</strong></p>
