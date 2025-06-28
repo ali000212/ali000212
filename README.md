@@ -1,5 +1,3 @@
-<h3 align="center">I am a skilled Full Stack & Blockchain Developer.</h3>
-
 <h1 align="center">🧠 Project Title: Next-Gen Full Stack Blockchain App</h1>
 
 <!-- Description -->
