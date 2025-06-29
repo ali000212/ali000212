@@ -7,35 +7,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="700" />
 </p>
 
-<!-- Tech Highlights -->
-<h2>👨‍💻 What I Do</h2>
-<ul>
-  <li>⚙️ Smart Contract Development — <strong>Solidity</strong>, <strong>Rust</strong>, <strong>Move</strong></li>
-  <li>🧱 Blockchain Systems — Ethereum, Solana, Polkadot, Cosmos SDK</li>
-  <li>🌐 Full Stack — React, Node.js, Tailwind, PostgreSQL, REST, GraphQL</li>
-  <li>📦 Web3, Tokenomics, DeFi, DAO, ZK-SNARKs</li>
-</ul>
-
-<!-- Smart Contract GIF -->
-<h2>🔗 Smart Contracts</h2>
-<p>I create efficient, secure, and audited smart contracts using Solidity & Rust, ensuring reliability across blockchain ecosystems.</p>
-
-<!-- Rust GIF -->
-<h2>🦀 Rust Blockchain Development</h2>
-<p>Working with <strong>Rust</strong> on high-performance, low-level blockchain systems and Layer 1 infrastructure.</p>
-
-<!-- Full Stack GIF -->
-<h2>🧰 Full Stack Engineering</h2>
-<p>I build pixel-perfect frontends and scalable backend APIs to power real-world Web3 applications.</p>
-
-<!-- Philosophy -->
-<h2>💡 Developer Philosophy</h2>
-<blockquote>
-  “Great code is like magic—powerful, invisible, and unforgettable.”<br />
-  <i>I write clean, composable, and testable code for the next generation of decentralized apps.</i>
-</blockquote>
-
-
 # 
 <table align="center">
   <tr>
