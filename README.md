@@ -12,6 +12,10 @@ I empower crypto traders, DeFi enthusiasts, and tech-driven businesses with cutt
 🔹 **TradingView Pine Script** — Strategy development, backtesting, and live execution pipelines  
 <br/>
 
+<p align="center">  
+    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
+</p>
+
 
 # 
 <table align="center">
