@@ -13,7 +13,7 @@ I empower crypto traders, DeFi enthusiasts, and tech-driven businesses with cutt
 <br/>
 
 <p align="center">  
-    <a href="https://github.com/CodeByStella?tab=achievements"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
+    <a href="https://github.com/topdeveloper212"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
 </p>
 
 
