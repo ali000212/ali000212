@@ -1,15 +1,13 @@
 <div align="center">
-  <h2>💫 Advanced Crypto Trading Solutions | Web Scraping |Chrome Extensions | Web Automation | Telegram Bots | AI & API Integration 💫</h2>
+  <h2>💫 Advanced Web Scraping |Chrome Extensions | Web Automation | Telegram Bots | AI & API Integration 💫</h2>
 </div>
 
-I empower crypto traders, DeFi enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
+I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
 
-🔹 **Crypto Trading Bots** — Arbitrage, Sniper, Copy Trading, MEV Bundler strategies  
 🔹 **Web Scraping** — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
 🔹 **Telegram Bots & Mini Apps** — Auto-trading, signal alerts, portfolio trackers, group management tools  
 🔹 **AI-Driven Chrome Extensions** — Intelligent automation, data extraction, and real-time trading assistants  
 🔹 **Custom Automation & Integration** — REST/RPC/gRPC APIs, webhooks, real-time data scraping  
-🔹 **TradingView Pine Script** — Strategy development, backtesting, and live execution pipelines  
 <br/>
 
 <p align="center">  
