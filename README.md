@@ -24,7 +24,11 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <br>REST API
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
@@ -54,19 +58,11 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-      <br>AWS
-    </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
+   <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
@@ -75,6 +71,10 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
     </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
@@ -109,6 +109,10 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
