@@ -88,7 +88,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
       <br>Go
     </td>
-    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
