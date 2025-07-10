@@ -23,7 +23,7 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
       <br>Express
     </td>
     <td align="center" width="90">
@@ -34,7 +34,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
-    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
@@ -63,7 +62,6 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
-    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
