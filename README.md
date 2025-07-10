@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💫 Advanced Web Scraping |Chrome Extensions | Web Automation | Telegram Bots | AI & API Integration 💫</h2>
+  <h2>💦 Web Scraping | Chrome Extensions | Automation | Telegram Bots | AI & API Integration 💦</h2>
 </div>
 
 I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
