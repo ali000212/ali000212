@@ -7,7 +7,7 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
 🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
 🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools  
 🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  
-🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, real-time data scraping, chatbot, telegram bot, discord bot, trading bot
+🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, chatbot, telegram bot, discord bot, trading bot
 <br/>
 🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
 <br/>
