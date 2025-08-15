@@ -1,13 +1,15 @@
 <div align="center">
-  <h2>💦 Scraping | Chrome Extensions | Trading Bot | AI & API Integration 💦</h2>
+  <h2>💦 Scraping | Extensions | Trading Bot | C++ | Desktop | Point Cloud | Flutter 💦</h2>
 </div>
 
 I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
 
-🔹 **Web Scraping** — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
-🔹 **Telegram Bots & Mini Apps** — Auto-trading, signal alerts, portfolio trackers, group management tools  
-🔹 **AI-Driven Chrome Extensions** — Intelligent automation, data extraction, and real-time trading assistants  
-🔹 **Custom Automation & Integration** — REST/RPC/gRPC APIs, webhooks, real-time data scraping  
+🔹 Web Scraping — Linkedin scraping, Facebook scraping, Tiktok scraping, Youtube Scraping  
+🔹 Telegram Bots & Mini Apps — Auto-trading, signal alerts, portfolio trackers, group management tools  
+🔹 AI-Driven Chrome Extensions — Intelligent automation, data extraction, and real-time trading assistants  
+🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, real-time data scraping, chatbot, telegram bot, discord bot, trading bot
+🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
+🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
 <br/>
 
 <p align="center">  
