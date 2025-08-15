@@ -10,6 +10,7 @@ I empower enthusiasts, and tech-driven businesses with cutting-edge automation t
 🔹 Custom Automation & Bot — REST/RPC/gRPC APIs, webhooks, real-time data scraping, chatbot, telegram bot, discord bot, trading bot
 🔹 C++ Desktop Point Cloud — Point Cloud street, C++ app, Qt app, MFC
 🔹 Mobile iOS Flutter — chat app, dating app, shop app etc
+
 <br/>
 
 <p align="center">  
